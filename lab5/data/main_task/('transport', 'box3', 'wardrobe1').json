@@ -1,0 +1,8 @@
+{
+    "GoTo": {"ex_time": 12.479984521865845, "n_fail": 0, "n_complete": 3},
+    "Cross": {"ex_time": 10.076192378997803, "n_fail": 0, "n_complete": 1},
+    "Open": {"ex_time": 0.10244250297546387, "n_fail": 0, "n_complete": 1},
+    "Close": {"ex_time": 0.10151481628417969, "n_fail": 0, "n_complete": 1},
+    "PickUp": {"ex_time": 0.1029214859008789, "n_fail": 0, "n_complete": 1},
+    "PutDown": {"ex_time": 0.10201549530029297, "n_fail": 0, "n_complete": 1}
+}
